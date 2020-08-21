@@ -1,0 +1,2 @@
+.catch(err) => {
+    message.reply('Dostum üyeyi atamadim');
